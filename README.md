@@ -7,7 +7,7 @@ This is a template repo with all the code to turn a marpit markdown file into a 
 
 ### Setup
 
-1. Clone this repo.
+1. Copy this repo.
 2. Place a `PITCHME.md` file using [Marpit's markdown style](https://marpit.marp.app/markdown) in the root level. 
 3. 
 ```bash
