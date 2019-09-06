@@ -1,6 +1,5 @@
 # The Marpit Slideshow Template Repo
 
-### Purpose
 
 This is a template repo with all the code to turn a marpit markdown file into a slideshow presentation that can be served live or made into an online version.
 
@@ -13,6 +12,8 @@ This is a template repo with all the code to turn a marpit markdown file into a 
 ```bash
 npm install
 ```
+4. Consider updating this README for your new presentation!
+
 
 ### To Serve Live Locally
 
@@ -20,14 +21,15 @@ npm install
 npm run start
 ```
 
+
 ### To Build for Deployment
 
 ```bash
 npm run build
 ```
 
-### To Deploy As Webpage Using Surge
 
+### To Deploy As Webpage Using Surge
 
 Install `surge` if necessary:
 ```bash
